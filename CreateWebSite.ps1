@@ -1,0 +1,1 @@
+New-WebApplication -Site "Default Web Site" -Name MVC -PhysicalPath c:\inetpub\wwwroot\MVC -Force
